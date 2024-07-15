@@ -1,3 +1,4 @@
 # Langchain tutorial
 ## content
-- [tutorial](./notebooks/tutorial/LCEL.ipynb)
+- <details><summary>tutorial</summary><p>
+    - [tutorial](./notebooks/tutorial/LCEL.ipynb)</p></details>
