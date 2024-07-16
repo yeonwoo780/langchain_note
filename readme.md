@@ -9,4 +9,5 @@
 <details><summary>prompt</summary>
 
 - [prompt](./notebooks/prompt/prompt.ipynb)
+- [FewshotPrompt](./notebooks/prompt/FewshotPrompt.ipynb)
 </details>
