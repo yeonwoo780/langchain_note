@@ -8,5 +8,5 @@
 </details>
 <details><summary>prompt</summary>
 
-- [prompt]
+- [prompt](./notebooks/prompt/prompt.ipynb)
 </details>
