@@ -11,3 +11,7 @@
 - [prompt](./notebooks/prompt/prompt.ipynb)
 - [FewshotPrompt](./notebooks/prompt/FewshotPrompt.ipynb)
 </details>
+<details><summary>Output Parsers</summary>
+
+- [Pydantic](./notebooks/parser/pydantic.ipynb)
+</details>
